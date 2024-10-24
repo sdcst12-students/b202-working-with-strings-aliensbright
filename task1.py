@@ -15,7 +15,9 @@ def replaceDog(input):
     return
     str - the modified string
     '''
-    modifiedString = input
+    
+    modifiedString = input.replace("dog", "kitty")
+
 
     return modifiedString
 
@@ -31,3 +33,4 @@ if __name__ == "__main__":
 
     x = 'i have a dog and a goldfish as my pets'
     assert replaceDog(x) == 'i have a kitty and a goldfish as my pets'
+    print("Finished")

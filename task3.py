@@ -9,6 +9,8 @@ this function returns the length of the string
 (2 points)
 '''
 
+import math
+
 def split(input):
     '''
     parameters
@@ -17,8 +19,21 @@ def split(input):
     return
     str new string with line break in the middle
     '''
+    
+    x = len(input)
 
-    return
+    half1 = input[0:math.floor(x/2)]
+    half2 = input[math.floor(x/2):x]
+
+    if half1[math.floor(x/2)-1]==" " or half2[0]==" ":
+        pass
+    else:
+        half1 = half1 +"-"
+        
+
+    modified = half1 + '\n' + half2
+
+    return modified
 
 if __name__ == "__main__":
     sentence = "There is a big balloon in the blue sky"
@@ -29,3 +44,5 @@ if __name__ == "__main__":
 
     sentence = "I was a fat cat"
     assert split(sentence) == "I was a\n fat cat"
+    
+    print("Done")
