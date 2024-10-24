@@ -13,9 +13,7 @@ def spacecount(string): #Using the number of spaces to determine how many words 
 
 def listcount(string):
     x = string.split()
-
     length = len(x)
-    
     return length
 
 def main():
