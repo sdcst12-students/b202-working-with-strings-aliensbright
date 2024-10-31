@@ -15,9 +15,42 @@ print(x.text)
 
 
 """
-
                 <title>Home - South Delta</title>
 
+                                <meta name="HandheldFriendly" content="True">
+                <meta name="MobileOptimized" content="320">
+                <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                                        <meta http-equiv="X-XSS-Protection" content="1; mode=block">
+                        <meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+                        <meta http-equiv="X-Content-Type-Options" content="nosniff">
+                        <meta http-equiv="Strict-Transport-Security" content="max-age=63072000; includeSubDomains">
+                        <meta http-equiv="Referrer-Policy" content="same-origin">
+                        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: blob: *.public.deltasd.bc.ca *.googleapis.com *.gstatic.com *.typekit.net *.google.com *.vimeo.com deltapolice.ca unpkg.com *.vimeocdn.com yoast.com *.gravatar.com 'unsafe-inline' 'unsafe-eval';">
+                                                <link rel="apple-touch-icon" href="https://sd.deltasd.bc.ca/wp-content/themes/school/library/images/apple-touch-icon.png">
+                <link rel="icon" href="https://sd.deltasd.bc.ca/wp-content/themes/school/favicon.png">
+                <!--[if IE]>
+                        <link rel="shortcut icon" href="https://sd.deltasd.bc.ca/wp-content/themes/school/favicon.ico">
+                <![endif]-->
+                                <meta name="msapplication-TileColor" content="#f01d4f">
+                <meta name="msapplication-TileImage" content="https://sd.deltasd.bc.ca/wp-content/themes/school/library/images/win8-tile-icon.png">
+            <meta name="theme-color" content="#121212">
+
+                <link rel="pingback" href="https://sd.deltasd.bc.ca/xmlrpc.php">
+
+                                <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+        <!-- This site is optimized with the Yoast SEO plugin v23.1 - https://yoast.com/wordpress/plugins/seo/ -->
+        <link rel="canonical" href="https://sd.deltasd.bc.ca/" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Home - South Delta" />
+        <meta property="og:description" content="... Read more &raquo;" />
+        <meta property="og:url" content="https://sd.deltasd.bc.ca/" />
+        <meta property="og:site_name" content="South Delta" />
+        <meta property="article:modified_time" content="2023-06-15T16:23:15+00:00" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://sd.deltasd.bc.ca/","url":"https://sd.deltasd.bc.ca/","name":"Home - South Delta","isPartOf":{"@id":"https://sd.deltasd.bc.ca/#website"},"datePublished":"2017-07-28T21:42:07+00:00","dateModified":"2023-06-15T16:23:15+00:00","breadcrumb":{"@id":"https://sd.deltasd.bc.ca/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://sd.deltasd.bc.ca/"]}]},{"@type":"BreadcrumbList","@id":"https://sd.deltasd.bc.ca/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://sd.deltasd.bc.ca/#website","url":"https://sd.deltasd.bc.ca/","name":"South Delta","description":"Secondary School | École Secondaire","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://sd.deltasd.bc.ca/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>      
+        <!-- / Yoast SEO plugin. -->
 
 
 <link rel='dns-prefetch' href='//sd.public.deltasd.bc.ca' />
@@ -303,6 +336,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                         <div class="border-wrapper">
 
                                                                         <div class="home-news-wrapper col-1-1">
+                                                                                                        <div class="home-news-item col-1-1 home-row">    
+
+                                                                                                                                        <div class="news-item-content">
+                                                                                <div class="title-date-wrapper">
+                                                                                        <h2 class="h-one title"><a href="https://sd.deltasd.bc.ca/news-events/news/halloween-message-2024/" class="news-title">Halloween Message 2024 and Winskill Construction Update</a></h2>
+                                                                                                                                                        </div><!-- /title-date-wrapper -->
+                                                                                <div class="excerpt">
+                                                                                        <p><a href="https://sd.deltasd.bc.ca/wp-content/uploads/sites/31/2024/10/Halloween-Message-2024.pdf">Halloween Message 2024</a>&#8230;  <a class="excerpt-read-more" href="https://sd.deltasd.bc.ca/news-events/news/halloween-message-2024/" title="Read Halloween Message 2024 and Winskill Construction Update">Read more &raquo;</a></p>
+                                                                                </div><!-- /excerpt -->
+                                                                                <a href="https://sd.deltasd.bc.ca/news-events/news/halloween-message-2024/" class="button">Read More</a>
+                                                                        </div><!-- /news-item-content -->
+                                                                                                                        </div><!-- /home-news-item -->   
                                                                                                                                                         <div class="home-news-item col-1-1 home-row">
 
                                                                                                                                         <a href="https://www.deltasd.bc.ca/news-events/news/walk-for-truth-and-reconciliation/" class="remove-icon"><span class="img-wrapper" style="background:url(https://sd.public.deltasd.bc.ca/wp-content/uploads/sites/2/2024/09/TR-banner-1024x577.png);"></span></a>
@@ -330,21 +375,6 @@ Students from Delta Secondary School and six elementary schools in Ladner (Hawth
 Welcome to the 2024/2025 school year! Hopefully you’ve had a wonderful summer and are returning to school relaxed, recharged and ready for the challenge and excitement of a new academic year&#8230;.  <a class="excerpt-read-more" href="https://www.deltasd.bc.ca/news-events/news/2024-welcome-back-to-school-message/" title="Read 2024 Welcome Back to School Message">Read more &raquo;</a></p>
                                                                                 </div><!-- /excerpt -->
                                                                                 <a href="https://www.deltasd.bc.ca/news-events/news/2024-welcome-back-to-school-message/" class="button">Read More</a>
-                                                                        </div><!-- /news-item-content -->
-                                                                                                                        </div><!-- /home-news-item -->   
-                                                                                                                                                        <div class="home-news-item col-1-1 home-row">
-
-                                                                                                                                        <a href="https://www.deltasd.bc.ca/news-events/news/registration-information-for-students-who-are-new-to-delta-2/" class="remove-icon"><span class="img-wrapper" style="background:url(https://sd.public.deltasd.bc.ca/wp-content/uploads/sites/2/2024/07/Kids-walking-to-school.jpeg);"></span></a>
-                                                                        <div class="news-item-content has-img">
-                                                                                <div class="title-date-wrapper">
-                                                                                        <h2 class="h-one title"><a href="https://www.deltasd.bc.ca/news-events/news/registration-information-for-students-who-are-new-to-delta-2/" class="news-title">Registration Information For Students Who Are New To Delta</a></h2>
-                                                                                                                                                        </div><!-- /title-date-wrapper -->
-                                                                                <div class="excerpt">
-                                                                                        <p>&nbsp;<br />
-Schools re-open Tuesday, September 3, 2024.<br />
-For verification of your catchment area school, please call the School Board Office at 604-952-5345 or 604 952 5346 or check the <a href="https://www.deltasd.bc.ca/schools/school-locator/">School Locator</a>&#8230;.  <a class="excerpt-read-more" href="https://www.deltasd.bc.ca/news-events/news/registration-information-for-students-who-are-new-to-delta-2/" title="Read Registration Information For Students Who Are New To Delta">Read more &raquo;</a></p>    
-                                                                                </div><!-- /excerpt -->
-                                                                                <a href="https://www.deltasd.bc.ca/news-events/news/registration-information-for-students-who-are-new-to-delta-2/" class="button">Read More</a>
                                                                         </div><!-- /news-item-content -->
                                                                                                                         </div><!-- /home-news-item -->   
                                                                                                                 <div class="more-news-btn-wrapper"><a href="/news-events/news/" class="button more-news-btn">More News</a></div>
@@ -454,7 +484,7 @@ For verification of your catchment area school, please call the School Board Off
 <script type="text/javascript" id="swp-live-search-client-js-extra">
 /* <![CDATA[ */
 var searchwp_live_search_params = [];
-searchwp_live_search_params = {"ajaxurl":"https:\/\/sd.deltasd.bc.ca\/wp-admin\/admin-ajax.php","origin_id":46,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures.","searchwp_live_search_client_nonce":"9aa30bff40"};;
+searchwp_live_search_params = {"ajaxurl":"https:\/\/sd.deltasd.bc.ca\/wp-admin\/admin-ajax.php","origin_id":46,"config":{"default":{"engine":"default","input":{"delay":300,"min_chars":3},"results":{"position":"bottom","width":"auto","offset":{"x":0,"y":5}},"spinner":{"lines":12,"length":8,"width":3,"radius":8,"scale":1,"corners":1,"color":"#424242","fadeColor":"transparent","speed":1,"rotate":0,"animation":"searchwp-spinner-line-fade-quick","direction":1,"zIndex":2000000000,"className":"spinner","top":"50%","left":"50%","shadow":"0 0 1px transparent","position":"absolute"}}},"msg_no_config_found":"No valid SearchWP Live Search configuration found!","aria_instructions":"When autocomplete results are available use up and down arrows to review and enter to go to the desired page. Touch device users, explore by touch or with swipe gestures.","searchwp_live_search_client_nonce":"3f53114199"};;
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://sd.deltasd.bc.ca/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/script.min.js" id="swp-live-search-client-js"></script>
@@ -476,4 +506,6 @@ searchwp_live_search_params = {"ajaxurl":"https:\/\/sd.deltasd.bc.ca\/wp-admin\/
 
         </body>
 
-        </html> <!-- end of site. what a ride! -->"""
+        </html> <!-- end of site. what a ride! -->
+
+<!-- Cache served by Simple Cache - Last modified: Mon, 28 Oct 2024 21:12:46 GMT -->"""
