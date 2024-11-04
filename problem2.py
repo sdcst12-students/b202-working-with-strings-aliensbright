@@ -13,6 +13,8 @@ x = requests.get("https://sd.deltasd.bc.ca")
 time.sleep(1)
 print(x.text)
 
+for script in x(["script", "style"]):
+    script.extract()  
 
 """
                 <title>Home - South Delta</title>
